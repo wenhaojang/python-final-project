@@ -1,0 +1,7 @@
+﻿industry,best_cv_rmse,model__n_estimators,model__min_samples_split,model__min_samples_leaf,model__max_features,model__max_depth,model__bootstrap,source_file
+汽车,0.3768861369231864,200,5,1,0.8,12,False,汽车_rf_best_params.csv
+旅游,0.3952992374260718,200,5,2,0.5,12,False,旅游_rf_best_params.csv
+动漫,0.4480059514368553,800,10,1,1.0,8,True,动漫_rf_best_params.csv
+文娱,0.5830380016897672,200,5,2,0.5,12,False,文娱_rf_best_params.csv
+家电,0.6312166617385964,200,5,1,0.8,12,False,家电_rf_best_params.csv
+餐饮,0.8583407375083418,800,10,5,0.8,12,True,餐饮_rf_best_params.csv

@@ -1,0 +1,7 @@
+﻿industry,model,best_cv_rmse,test_rmse,test_mae,test_dir_acc,pred_file,params_file
+餐饮,RandomForest,0.8583407375083418,0.2562356410510577,0.19883090092839883,0.7647058823529411,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\餐饮_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\餐饮_rf_best_params.csv
+家电,RandomForest,0.6312166617385964,0.3331222170092512,0.26891041803005467,0.8823529411764706,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\家电_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\家电_rf_best_params.csv
+文娱,RandomForest,0.5830380016897672,0.42383974137257135,0.3478520282278048,0.6470588235294118,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\文娱_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\文娱_rf_best_params.csv
+汽车,RandomForest,0.37688613692318645,0.47684067450284684,0.3855301358068926,0.5882352941176471,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\汽车_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\汽车_rf_best_params.csv
+旅游,RandomForest,0.39529923742607187,0.6254191556762935,0.5674189671725329,0.7058823529411765,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\旅游_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\旅游_rf_best_params.csv
+动漫,RandomForest,0.4480059514368553,1.1374406647113147,0.6546707454333366,0.8823529411764706,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\动漫_rf_predictions.csv,C:\Users\17514\Desktop\研一\统计基础\作业\大作业\整合数据\rf_results\动漫_rf_best_params.csv

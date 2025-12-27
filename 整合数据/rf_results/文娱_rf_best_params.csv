@@ -1,0 +1,2 @@
+﻿industry,best_cv_rmse,model__n_estimators,model__min_samples_split,model__min_samples_leaf,model__max_features,model__max_depth,model__bootstrap
+文娱,0.5830380016897672,200,5,2,0.5,12,False

@@ -1,0 +1,7 @@
+﻿industry,best_cv_rmse,model__min_samples_leaf,model__max_leaf_nodes,model__max_iter,model__max_depth,model__learning_rate,model__l2_regularization,source_file
+动漫,0.5563678153196044,10,31,400,5.0,0.03,1.0,动漫_boosting_best_params.csv
+旅游,0.6503600709327906,10,31,400,5.0,0.03,1.0,旅游_boosting_best_params.csv
+文娱,0.6826830740066766,10,63,400,2.0,0.03,1.0,文娱_boosting_best_params.csv
+家电,0.8481121041282871,10,31,400,5.0,0.03,1.0,家电_boosting_best_params.csv
+汽车,0.910793576642588,20,31,400,,0.01,5.0,汽车_boosting_best_params.csv
+餐饮,0.9423085566469162,10,63,400,2.0,0.03,1.0,餐饮_boosting_best_params.csv

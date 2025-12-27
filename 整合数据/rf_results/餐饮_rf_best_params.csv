@@ -1,0 +1,2 @@
+﻿industry,best_cv_rmse,model__n_estimators,model__min_samples_split,model__min_samples_leaf,model__max_features,model__max_depth,model__bootstrap
+餐饮,0.8583407375083418,800,10,5,0.8,12,True

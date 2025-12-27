@@ -1,0 +1,2 @@
+﻿industry,best_cv_rmse,model__min_samples_leaf,model__max_leaf_nodes,model__max_iter,model__max_depth,model__learning_rate,model__l2_regularization
+汽车,0.9107935766425879,20,31,400,,0.01,5.0
