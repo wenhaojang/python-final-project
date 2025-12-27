@@ -1,3 +1,6 @@
+环境： python 3.13.5
+所用的包：numpy,pandas,matplotlib,scipy,statsmodels,openpyxl,statsmodels,scikit-learn
+
 data.ipynb文件为处理原始数据至最后分析用数据的脚本。
 EDA.ipynb为文中EDA（数据探索式分析）部分的脚本
 分析.ipynb即为文中所有建模分析的代码。
